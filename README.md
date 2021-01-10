@@ -1,2 +1,2 @@
 # buzhidaoa.io
-##**Hello,优课达！！**
+## Hello,优课达！！
